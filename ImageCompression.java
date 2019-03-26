@@ -3,7 +3,7 @@ package pkg;
 /*
  * Author      : Rakesh Sharad Navale.
  * University  : University of SOuthern California : COmputer Science
- * Subject     : Multi-media Systems [CSCI 576]
+ * Subject     : Multi-media Systems. [CSCI 576]
  */
 
 import java.io.*;
